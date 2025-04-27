@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dave!</h1>
-<h3 align="center">I’m a passionate Frontend Developer specializing in ReactJS, NextJS. My focus is on crafting intuitive, responsive, and high-performing web applications that deliver value.</h3>
+<h3 align="center">I’m a Full-Stack Developer specializing in ReactJS, NextJS, NodeJS and Express. My focus is on crafting intuitive, responsive, and high-performing web applications that deliver value.</h3>
 
 - 🔭 I’m currently working on [CRBRS](https://www.cerberustrading.net)
 
